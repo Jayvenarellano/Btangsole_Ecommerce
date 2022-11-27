@@ -211,6 +211,11 @@ form.sign-in-form {
 }
 /*-----Panel Left/Right------*/
 
+
+
+/*---------------------------------------------*/
+
+
 /* ANIMATION */
 
 .container.sign-up-mode:before {
@@ -308,7 +313,6 @@ form.sign-in-form {
     font-size: 0.7rem;
     padding: 0.5rem 0;
   }
-
 
   .btn.transparent {
     width: 110px;
